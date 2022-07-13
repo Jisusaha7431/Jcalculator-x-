@@ -1,9 +1,11 @@
 # jisu.c
 
+*(This is a(x)calcutlaror)*
 
 
+•✓ Install and run prosess **
 
-•✓ Install prosess **
+(follow me ...)
 
 
 
